@@ -1,0 +1,3 @@
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\CasseBrique\bin\Debug\BrickBreaker.exe.config
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\CasseBrique\obj\Debug\BrickBreaker.exe
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\CasseBrique\obj\Debug\BrickBreaker.pdb

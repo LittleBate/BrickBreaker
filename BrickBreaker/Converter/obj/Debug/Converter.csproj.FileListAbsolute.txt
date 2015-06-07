@@ -1,0 +1,9 @@
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\Converter\bin\Debug\Converter.dll
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\Converter\bin\Debug\Converter.pdb
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\Converter\bin\Debug\ViewModel.dll
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\Converter\bin\Debug\ViewModel.pdb
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\Converter\obj\Debug\Converter.dll
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\Converter\obj\Debug\Converter.pdb
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\bin\Converter.dll
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\bin\Converter.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\BrickBreakerObject\bin\Debug\BrickBreakerObject.dll
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\BrickBreakerObject\bin\Debug\BrickBreakerObject.pdb
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\BrickBreakerObject\obj\Debug\BrickBreakerObject.csprojResolveAssemblyReference.cache
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\BrickBreakerObject\obj\Debug\BrickBreakerObject.dll
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\BrickBreakerObject\obj\Debug\BrickBreakerObject.pdb
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\bin\BrickBreakerObject.dll
+C:\Users\Pluvy Guillaume\Travail\Informatique\Projet\BrickBreaker\BrickBreaker\bin\BrickBreakerObject.pdb
