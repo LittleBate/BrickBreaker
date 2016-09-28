@@ -20,6 +20,9 @@ namespace BrickBreakerObject
             SpeedY = 3;
         }
 
+
+
+
         private int _Diametre;
         /// <summary>
         /// Définit ou obtient le diametre de la balle
